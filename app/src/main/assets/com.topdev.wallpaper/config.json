@@ -13,6 +13,7 @@
       "fan": {
         "b": "2034937413503596_2034939003503437",
         "n": "2034937413503596_2034938740170130",
+        "bn": "2034937413503596_2034938740170130",
         "p": "2034937413503596_2034938880170116"
       },
       "startapp": "207129026",
@@ -49,5 +50,130 @@
     "wordblock": ".*.mp4.*",
     "yapi": "AIzaSyDphmGGpkd-6Oaic388NVX5CtDXXvnhXF4",
     "resource": "4,8,5"
-  }
+  },
+  "category":[
+    {
+      "viewType": 2
+    },
+    {
+      "id": 61,
+      "image": "http://adminwallify.appisoft.info/uploads/cache/section_thumb_api/uploads/f468b5f0eb350df0aa2af5a9009450d7.jpeg",
+      "title": "Galaxy Note9",
+      "viewType": 3
+    },
+    {
+      "id": 52,
+      "image": "http://adminwallify.appisoft.info/uploads/cache/section_thumb_api/uploads/88c15898aeaca28ee5de5e1d03aa7135.jpeg",
+      "title": "Food",
+      "viewType": 3
+    },
+    {
+      "id": 14,
+      "image": "http://adminwallify.appisoft.info/uploads/cache/section_thumb_api/uploads/fa4d68bfd7e27dc20aa83a2a589c5a81.jpeg",
+      "title": "Stock wallpapers",
+      "viewType": 3
+    },
+    {
+      "id": 51,
+      "image": "http://adminwallify.appisoft.info/uploads/cache/section_thumb_api/uploads/7b88c0bac5bd9279c58b0e087f3128b9.jpeg",
+      "title": "Movies / Superheroes",
+      "viewType": 3
+    },
+    {
+      "id": 60,
+      "image": "http://adminwallify.appisoft.info/uploads/cache/section_thumb_api/uploads/a8ddfc455896d1e97f2ac013513d383b.jpeg",
+      "title": "Love",
+      "viewType": 3
+    },
+    {
+      "id": 50,
+      "image": "http://adminwallify.appisoft.info/uploads/cache/section_thumb_api/uploads/9b92b64b603852118d7d864404de6cd9.jpeg",
+      "title": "Lights",
+      "viewType": 3
+    },
+    {
+      "id": 49,
+      "image": "http://adminwallify.appisoft.info/uploads/cache/section_thumb_api/uploads/846c9e720f69efc8fc6da39000d4abcc.jpeg",
+      "title": "City",
+      "viewType": 3
+    },
+    {
+      "id": 48,
+      "image": "http://adminwallify.appisoft.info/uploads/cache/section_thumb_api/uploads/ee31aba7be37d32b481b48eb1ae49dbe.jpeg",
+      "title": "Brands",
+      "viewType": 3
+    },
+    {
+      "id": 47,
+      "image": "http://adminwallify.appisoft.info/uploads/cache/section_thumb_api/uploads/6c7182526844b3d296dd3236f89b4f44.jpeg",
+      "title": "3D Design",
+      "viewType": 3
+    },
+    {
+      "id": 45,
+      "image": "http://adminwallify.appisoft.info/uploads/cache/section_thumb_api/uploads/b20f008dc5347e06faa30450fde06721.jpeg",
+      "title": "Flat / Material Design",
+      "viewType": 3
+    },
+    {
+      "id": 46,
+      "image": "http://adminwallify.appisoft.info/uploads/cache/section_thumb_api/uploads/aac6555c00fedd5c9221196edfcb0a42.jpeg",
+      "title": "Creative Graphics",
+      "viewType": 3
+    },
+    {
+      "id": 44,
+      "image": "http://adminwallify.appisoft.info/uploads/cache/section_thumb_api/uploads/fd60d061d04d893e417e1f057d4964c5.jpeg",
+      "title": "Animals & Birds",
+      "viewType": 3
+    },
+    {
+      "id": 43,
+      "image": "http://adminwallify.appisoft.info/uploads/cache/section_thumb_api/uploads/4f893e5775d476c94b3eacbd05f6c44d.jpeg",
+      "title": "Games",
+      "viewType": 3
+    },
+    {
+      "id": 42,
+      "image": "http://adminwallify.appisoft.info/uploads/cache/section_thumb_api/uploads/a35bad280d2dfb393d9d30b3bb3dd6a9.jpeg",
+      "title": "Sports",
+      "viewType": 3
+    },
+    {
+      "id": 40,
+      "image": "http://adminwallify.appisoft.info/uploads/cache/section_thumb_api/uploads/7a3eb2be932bf4a070670fe583246b87.jpeg",
+      "title": "Technology",
+      "viewType": 3
+    },
+    {
+      "id": 39,
+      "image": "http://adminwallify.appisoft.info/uploads/cache/section_thumb_api/uploads/f9d750bd8d363aa5d69db70091dd29f7.jpeg",
+      "title": "Abstract",
+      "viewType": 3
+    },
+    {
+      "id": 30,
+      "image": "http://adminwallify.appisoft.info/uploads/cache/section_thumb_api/uploads/a30816afb88564d104cfa45629da9797.jpeg",
+      "title": "AMOLED",
+      "viewType": 3
+    },
+    {
+      "id": 37,
+      "image": "http://adminwallify.appisoft.info/uploads/cache/section_thumb_api/uploads/65fd54bf582205c513e960f01d544283.jpeg",
+      "title": "Vehicles",
+      "viewType": 3
+    },
+    {
+      "id": 38,
+      "image": "http://adminwallify.appisoft.info/uploads/cache/section_thumb_api/uploads/ab7f8023c519c076d5a6022a9508c7b5.jpeg",
+      "title": "Space",
+      "viewType": 3
+    },
+    {
+      "id": 36,
+      "image": "http://adminwallify.appisoft.info/uploads/cache/section_thumb_api/uploads/21fec164a44717a4d34be8fc38113be3.jpeg",
+      "title": "Nature",
+      "viewType": 3
+    }
+  ]
 }
